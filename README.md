@@ -5,7 +5,7 @@ Challenge infos are inside the `./challenges` folder
 
 ## 🚀 Outline
 - [Lo Shu Magic Square](#lo-shu-magic-square)
-- [Line Graph](#lne-graph)
+- [Line Graph](#line-graph)
 - [Pyramid Text](#pyramid-text)
 - [Triangular Numbers](#triangular-numbers)
 
